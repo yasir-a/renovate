@@ -8,7 +8,7 @@ UI for construction website built using react js.
 
 ## Preview
 
-The preview can be find here:
+Open [https://yasir-a.github.io/](https://yasir-a.github.io/) to view it in the browser.
 
 ## Tutorial
 
