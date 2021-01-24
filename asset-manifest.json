@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/renovate/static/css/main.d3618ea9.chunk.css",
+    "main.js": "/renovate/static/js/main.740076fb.chunk.js",
+    "main.js.map": "/renovate/static/js/main.740076fb.chunk.js.map",
+    "runtime-main.js": "/renovate/static/js/runtime-main.f6e2d0de.js",
+    "runtime-main.js.map": "/renovate/static/js/runtime-main.f6e2d0de.js.map",
+    "static/js/2.86a1c39f.chunk.js": "/renovate/static/js/2.86a1c39f.chunk.js",
+    "static/js/2.86a1c39f.chunk.js.map": "/renovate/static/js/2.86a1c39f.chunk.js.map",
+    "static/js/3.0bf8e555.chunk.js": "/renovate/static/js/3.0bf8e555.chunk.js",
+    "static/js/3.0bf8e555.chunk.js.map": "/renovate/static/js/3.0bf8e555.chunk.js.map",
+    "index.html": "/renovate/index.html",
+    "static/css/main.d3618ea9.chunk.css.map": "/renovate/static/css/main.d3618ea9.chunk.css.map",
+    "static/js/2.86a1c39f.chunk.js.LICENSE.txt": "/renovate/static/js/2.86a1c39f.chunk.js.LICENSE.txt",
+    "static/media/hero.073c7955.jpg": "/renovate/static/media/hero.073c7955.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6e2d0de.js",
+    "static/js/2.86a1c39f.chunk.js",
+    "static/css/main.d3618ea9.chunk.css",
+    "static/js/main.740076fb.chunk.js"
+  ]
+}
