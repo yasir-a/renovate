@@ -1,0 +1,49 @@
+.about-us {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.primary-heading {
+  color: yellow;
+  line-height: 0;
+  font-size: 25px;
+}
+.secondary-heading {
+  color: #fff;
+  line-height: 0;
+  font-size: 35px;
+}
+.para-about {
+  color: #fff;
+  width: 479px;
+  font-size: 15px;
+  text-align: center;
+}
+.btn-group {
+}
+.btn-register {
+  background: rgba(235, 187, 57, 1);
+  color: #fff;
+  height: 40px;
+  width: 100px;
+  border-radius: 20px 20px;
+  outline: 0;
+  margin: 0 5px;
+  font-weight: bold;
+}
+.btn-contact {
+  background: #fff;
+  color: #000;
+  height: 40px;
+  width: 100px;
+  border-radius: 20px 20px;
+  outline: 0;
+  margin: 0 5px;
+  font-weight: bold;
+}

@@ -1,0 +1,7 @@
+.services {
+  position: relative;
+  bottom: 50px;
+  height: 550px;
+  display: flex;
+  justify-content: center;
+}

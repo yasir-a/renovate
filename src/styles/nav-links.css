@@ -1,0 +1,12 @@
+.list-links {
+  display: flex;
+}
+.link-item {
+  margin: 0px 5px;
+  font-weight: 900;
+}
+
+.link-item:hover {
+  color: yellow;
+  cursor: pointer;
+}
