@@ -15,7 +15,6 @@ export class App extends Component {
         <div className='ff'>
           <AboutUs />
         </div>
-        <button onClick={this.pdfToHtml}></button>
         <Services />
         <Footer />
       </div>
